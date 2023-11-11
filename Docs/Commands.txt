@@ -1,0 +1,4 @@
+ npx playwright test login.spec.js --project=chromium --headed (to run the test visually, specifically in chromium)
+npx playwright show-report (To show the html report in chrome browser)
+npx playwright test --ui (to operate easily in an interface mode)
+npx playwright codegen (to create Javascript code on playwright recorder)
